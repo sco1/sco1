@@ -17,11 +17,16 @@ I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 <a href="https://julialang.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/julia/julia.png"></code></a>
 <a href="https://jupyter.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code></a>
 <a href="https://numpy.org/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code></a>
+<a href="https://git-scm.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code></a>
 <a href="https://www.apple.com/macos"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/macos/macos.png"></code></a>
 <a href="https://www.microsoft.com/en-us/windows"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png"></code></a>
 <a href="https://fishshell.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/fish/fish.png"></code></a>
 <a href="https://docs.brew.sh/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/homebrew/homebrew.png"></code></a>
 <a href="https://github.com/microsoft/PowerToys"><code><img height="30" src="https://raw.githubusercontent.com/microsoft/PowerToys/master/doc/images/Logo/PNG/PowerToysAppList.targetsize-30.png"></code></a>
 
+<details>
+  <summary><b>View Github Stats!</b></summary>
+
 ![sco1's Github Stats](https://github-readme-stats.vercel.app/api?username=sco1&count_private=true&theme=dracula)
 ![sco1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sco1&theme=dracula&hide=Tcl,C)
+</details>
