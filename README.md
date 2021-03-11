@@ -1,6 +1,6 @@
 ## Hi there, I'm sco1! 👋
 ![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-blue)
-![Twitter Follow](https://img.shields.io/twitter/follow/sco1_git?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sco1_git?style=social)](https://twitter.com/sco1_git)
 
 I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 
