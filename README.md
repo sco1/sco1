@@ -24,13 +24,6 @@ I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 <a href="https://docs.brew.sh/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/homebrew/homebrew.png"></code></a>
 <a href="https://github.com/microsoft/PowerToys"><code><img height="30" src="https://raw.githubusercontent.com/microsoft/PowerToys/master/doc/images/icons/PowerToys%20icon/PNG/PowerToysAppList.targetsize-30.png"></code></a>
 
-### Skills I'd Like to Improve
-  * Rust
-  * Python Frontends (e.g. Django, Flask)
-  * Python Services (e.g. FastAPI, Starlette)
-  * Databases (e.g. GraphQL, EdgeDB)
-  * Julia
-
 <details>
   <summary><b>View Github Stats!</b></summary>
 
