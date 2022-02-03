@@ -1,7 +1,7 @@
 ## Hi there, I'm sco1! 👋
 ![Pronouns](https://img.shields.io/badge/pronouns-he%2Fhim-blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sco1_git?style=social)](https://twitter.com/sco1_git)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-excaza-blueviolet?logo=stackoverflow)](https://stackoverflow.com/users/2748311/excaza)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-sco1-blueviolet?logo=stackoverflow)](https://stackoverflow.com/users/2748311/excaza)
 
 I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 
