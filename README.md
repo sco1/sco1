@@ -3,6 +3,7 @@
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-sco1-F58025?logo=stackoverflow)](https://stackoverflow.com/users/2748311/excaza)
 [![Slack](https://img.shields.io/badge/Boston%20Python-sco1-4A154B?logo=slack)](https://join.slack.com/t/bostonpython/shared_invite/zt-tnds065z-Ec_9XymfQFiPIVGXynyCjg)
 [![HackerNews](https://img.shields.io/badge/HackerNews-sco1-F0652F?logo=stackoverflow)](https://news.ycombinator.com/user?id=sco1)
+[![Mastodon](https://img.shields.io/badge/HackerNews-sco1-brightgreen?logo=mastodon)](https://fosstodon.org/@sco1)
 
 I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 
@@ -25,10 +26,3 @@ I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 <a href="https://fishshell.com/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/fish/fish.png"></code></a>
 <a href="https://docs.brew.sh/"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/homebrew/homebrew.png"></code></a>
 <a href="https://github.com/microsoft/PowerToys"><code><img height="30" src="https://raw.githubusercontent.com/microsoft/PowerToys/master/doc/images/icons/PowerToys%20icon/PNG/PowerToysAppList.targetsize-30.png"></code></a>
-
-<details>
-  <summary><b>View Github Stats!</b></summary>
-
-![sco1's Github Stats](https://github-readme-stats.vercel.app/api?username=sco1&count_private=true&theme=dracula)
-![sco1's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sco1&theme=dracula&hide=Tcl,C)
-</details>
