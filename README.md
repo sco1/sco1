@@ -7,7 +7,12 @@
 I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 
 ### Programming Interests
-  * Data collection, postprocessing, and visualization
-  * CLI and GUI tooling
-  * Code quality
-  * Software testing
+* Data collection, postprocessing, and visualization
+* CLI and GUI tooling
+* Code quality
+* Software testing
+
+I also find joy in making hilarious things like:
+* [randomly-change-self](https://github.com/sco1/randomly-change-self) - Change all instances of "self" to "this" in one randomly chosen scope
+* [pytest-pahrametahrize](https://github.com/sco1/pytest-pahrametahrize) - Parametrize your tests with a Boston accent 
+* [brie-commit](https://github.com/sco1/brie-commit) - A collection of cheesy pre-commit hooks 
