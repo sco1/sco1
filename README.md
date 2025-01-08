@@ -19,8 +19,6 @@ I also find joy in making hilarious things like:
 * [pre-commit-fail-randomly](https://github.com/sco1/pre-commit-fail-randomly) - Randomly fail a pre-commit run
 
 ### Latest Releases
-Below is a list of my 5 most recent public project releases.
-
 <!-- [[[cog
 import datetime as dt
 
