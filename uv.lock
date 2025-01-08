@@ -199,10 +199,9 @@ wheels = [
 
 [[package]]
 name = "readme-rel"
-version = "0.1.0"
-source = { git = "https://github.com/sco1/readme-rel#60f9ea63228ecfde1806c9b0996ba72039e203c8" }
+version = "1.0.0"
+source = { git = "https://github.com/sco1/readme-rel?rev=v1.0.0#22d3dcd83260b101bb6e44d32e42a01bf20e91de" }
 dependencies = [
-    { name = "cogapp" },
     { name = "gql", extra = ["httpx"] },
 ]
 
@@ -218,7 +217,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "cogapp", specifier = "~=3.4" },
-    { name = "readme-rel", git = "https://github.com/sco1/readme-rel" },
+    { name = "readme-rel", git = "https://github.com/sco1/readme-rel?rev=v1.0.0" },
 ]
 
 [[package]]
