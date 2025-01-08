@@ -1,0 +1,44 @@
+name: Update README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "* 14 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v3
+      with:
+        version: "0.5.x"
+        enable-cache: true
+        cache-dependency-glob: "uv.lock"
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: "pyproject.toml"
+
+    - name: Install dependencies
+      run: uv sync
+
+    - name: Update README
+      env:
+        PUBLIC_PAT: ${{ secrets.PUBLIC_PAT }}
+      run: uv run cog -r README.md
+
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated README" || exit 0
+        git push

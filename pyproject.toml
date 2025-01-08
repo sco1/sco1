@@ -1,0 +1,13 @@
+[project]
+name = "sco1"
+version = "0.1.0"
+description = "Hello, world!"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cogapp~=3.4",
+    "readme-rel",
+]
+
+[tool.uv.sources]
+readme-rel = { git = "https://github.com/sco1/readme-rel" }
