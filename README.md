@@ -28,11 +28,11 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
+* 2025-02-04: [`skyportal`](https://github.com/sco1/skyportal) `v2.0.0` ([Changelog](https://github.com/sco1/skyportal/releases/tag/v2.0.0), [Tree](https://github.com/sco1/skyportal/tree/v2.0.0))  
 * 2025-01-06: [`xbmini-py`](https://github.com/sco1/xbmini-py) `v0.5.0` ([Changelog](https://github.com/sco1/xbmini-py/releases/tag/v0.5.0), [Tree](https://github.com/sco1/xbmini-py/tree/v0.5.0))  
 * 2024-12-31: [`matplotlib-window`](https://github.com/sco1/matplotlib-window) `v1.1.0` ([Changelog](https://github.com/sco1/matplotlib-window/releases/tag/v1.1.0), [Tree](https://github.com/sco1/matplotlib-window/tree/v1.1.0))  
 * 2024-11-27: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.9.0` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.9.0), [Tree](https://github.com/sco1/pyflysight/tree/v0.9.0))  
 * 2024-10-09: [`bumper`](https://github.com/sco1/bumper) `v1.0.0` ([Changelog](https://github.com/sco1/bumper/releases/tag/v1.0.0), [Tree](https://github.com/sco1/bumper/tree/v1.0.0))  
-* 2024-10-08: [`pre-commit-check-office-metadata`](https://github.com/sco1/pre-commit-check-office-metadata) `v1.0.0` ([Changelog](https://github.com/sco1/pre-commit-check-office-metadata/releases/tag/v1.0.0), [Tree](https://github.com/sco1/pre-commit-check-office-metadata/tree/v1.0.0))  
 <!-- [[[end]]] -->
 
 This section is powered by [`readme-rel`](https://github.com/sco1/readme-rel) and [`cog`](https://github.com/nedbat/cog) running [via CI](https://github.com/sco1/sco1/blob/master/.github/workflows/update_rel.yml). Updates are scheduled daily at 1400 UTC.
