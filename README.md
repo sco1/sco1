@@ -19,6 +19,14 @@ I also find joy in making hilarious things like:
 * [pre-commit-fail-randomly](https://github.com/sco1/pre-commit-fail-randomly) - Randomly fail a pre-commit run
 
 ### Latest Releases
+<details>
+  <summary><i>About</i></summary>
+
+This section is powered by [`readme-rel`](https://github.com/sco1/readme-rel) and [`cog`](https://github.com/nedbat/cog) running [via CI](https://github.com/sco1/sco1/blob/master/.github/workflows/update_rel.yml). Updates are scheduled daily at 1400 UTC.
+
+Inspired by Simon Willinson's [*Building a self-updating profile README for GitHub*](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
+</details>
+
 <!-- [[[cog
 import datetime as dt
 
@@ -34,7 +42,3 @@ cog.out(f"{rendered}")
 * 2024-11-27: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.9.0` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.9.0), [Tree](https://github.com/sco1/pyflysight/tree/v0.9.0))  
 * 2024-10-09: [`bumper`](https://github.com/sco1/bumper) `v1.0.0` ([Changelog](https://github.com/sco1/bumper/releases/tag/v1.0.0), [Tree](https://github.com/sco1/bumper/tree/v1.0.0))  
 <!-- [[[end]]] -->
-
-This section is powered by [`readme-rel`](https://github.com/sco1/readme-rel) and [`cog`](https://github.com/nedbat/cog) running [via CI](https://github.com/sco1/sco1/blob/master/.github/workflows/update_rel.yml). Updates are scheduled daily at 1400 UTC.
-
-Inspired by Simon Willinson's [*Building a self-updating profile README for GitHub*](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
