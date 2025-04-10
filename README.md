@@ -36,7 +36,7 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
-* 2025-04-08: [`pre-commit-pep639`](https://github.com/sco1/pre-commit-pep639) `v0.1.0` ([Changelog](https://github.com/sco1/pre-commit-pep639/releases/tag/v0.1.0), [Tree](https://github.com/sco1/pre-commit-pep639/tree/v0.1.0))  
+* 2025-04-09: [`pre-commit-pep639`](https://github.com/sco1/pre-commit-pep639) `v0.2.0` ([Changelog](https://github.com/sco1/pre-commit-pep639/releases/tag/v0.2.0), [Tree](https://github.com/sco1/pre-commit-pep639/tree/v0.2.0))  
 * 2025-03-02: [`xbmini-py`](https://github.com/sco1/xbmini-py) `v0.5.1` ([Changelog](https://github.com/sco1/xbmini-py/releases/tag/v0.5.1), [Tree](https://github.com/sco1/xbmini-py/tree/v0.5.1))  
 * 2025-02-04: [`skyportal`](https://github.com/sco1/skyportal) `v2.0.0` ([Changelog](https://github.com/sco1/skyportal/releases/tag/v2.0.0), [Tree](https://github.com/sco1/skyportal/tree/v2.0.0))  
 * 2024-12-31: [`matplotlib-window`](https://github.com/sco1/matplotlib-window) `v1.1.0` ([Changelog](https://github.com/sco1/matplotlib-window/releases/tag/v1.1.0), [Tree](https://github.com/sco1/matplotlib-window/tree/v1.1.0))  
