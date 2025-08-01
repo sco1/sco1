@@ -11,6 +11,7 @@ I'm a Boston-based Aerospace Engineer focused on test & evaluation.
 * CLI and GUI tooling
 * Code quality
 * Software testing
+* Following along with [CS-related textbooks](https://github.com/sco1/sco1/blob/master/reading_list.md)
 
 I also find joy in making hilarious things like:
 * [randomly-change-self](https://github.com/sco1/randomly-change-self) - Change all instances of "self" to "this" in one randomly chosen scope
