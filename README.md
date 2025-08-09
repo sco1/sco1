@@ -37,7 +37,7 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
-* 2025-08-07: [`flake8-define-class-attributes`](https://github.com/sco1/flake8-define-class-attributes) `v0.1.0` ([Changelog](https://github.com/sco1/flake8-define-class-attributes/releases/tag/v0.1.0), [Tree](https://github.com/sco1/flake8-define-class-attributes/tree/v0.1.0))  
+* 2025-08-08: [`flake8-define-class-attributes`](https://github.com/sco1/flake8-define-class-attributes) `v0.2.0` ([Changelog](https://github.com/sco1/flake8-define-class-attributes/releases/tag/v0.2.0), [Tree](https://github.com/sco1/flake8-define-class-attributes/tree/v0.2.0))  
 * 2025-06-26: [`vid2pdf-flutter`](https://github.com/sco1/vid2pdf-flutter) `v0.1.0` ([Changelog](https://github.com/sco1/vid2pdf-flutter/releases/tag/v0.1.0), [Tree](https://github.com/sco1/vid2pdf-flutter/tree/v0.1.0))  
 * 2025-05-09: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2025.5.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2025.5.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2025.5.0))  
 * 2025-05-09: [`bumper`](https://github.com/sco1/bumper) `v2.0.1` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.0.1), [Tree](https://github.com/sco1/bumper/tree/v2.0.1))  
