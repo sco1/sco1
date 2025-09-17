@@ -37,9 +37,9 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
-* 2025-09-16: [`check-workflow`](https://github.com/sco1/check-workflow) `v1.0.0` ([Changelog](https://github.com/sco1/check-workflow/releases/tag/v1.0.0), [Tree](https://github.com/sco1/check-workflow/tree/v1.0.0))  
-* 2025-09-08: [`wheely-bucket`](https://github.com/sco1/wheely-bucket) `v0.3.0` ([Changelog](https://github.com/sco1/wheely-bucket/releases/tag/v0.3.0), [Tree](https://github.com/sco1/wheely-bucket/tree/v0.3.0))  
+* 2025-09-17: [`vid2pdf`](https://github.com/sco1/vid2pdf) `v1.2.0` ([Changelog](https://github.com/sco1/vid2pdf/releases/tag/v1.2.0), [Tree](https://github.com/sco1/vid2pdf/tree/v1.2.0))  
+* 2025-09-16: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.9.1` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.9.1), [Tree](https://github.com/sco1/pyflysight/tree/v0.9.1))  
+* 2025-09-16: [`wheely-bucket`](https://github.com/sco1/wheely-bucket) `v0.3.1` ([Changelog](https://github.com/sco1/wheely-bucket/releases/tag/v0.3.1), [Tree](https://github.com/sco1/wheely-bucket/tree/v0.3.1))  
+* 2025-09-16: [`check-workflow`](https://github.com/sco1/check-workflow) `v1.1.0` ([Changelog](https://github.com/sco1/check-workflow/releases/tag/v1.1.0), [Tree](https://github.com/sco1/check-workflow/tree/v1.1.0))  
 * 2025-09-05: [`flake8-define-class-attributes`](https://github.com/sco1/flake8-define-class-attributes) `v0.2.1` ([Changelog](https://github.com/sco1/flake8-define-class-attributes/releases/tag/v0.2.1), [Tree](https://github.com/sco1/flake8-define-class-attributes/tree/v0.2.1))  
-* 2025-08-28: [`dl-vsix`](https://github.com/sco1/dl-vsix) `v0.2.0` ([Changelog](https://github.com/sco1/dl-vsix/releases/tag/v0.2.0), [Tree](https://github.com/sco1/dl-vsix/tree/v0.2.0))  
-* 2025-05-09: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2025.5.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2025.5.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2025.5.0))  
 <!-- [[[end]]] -->
