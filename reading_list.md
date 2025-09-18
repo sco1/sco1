@@ -26,3 +26,9 @@ https://nostarch.com/computer-science-from-scratch
 Came across this text while reading comments on HN & picked up the Early Access version. The book covers a wide variety of really interesting CS topics, including stochastic painting and hardware emulation. You even get to implement an NES emulator, how cool! Concepts are well explained as you walk through implementation using modern Python (3.12+), and each chapter features exercises that help you explore far beyond the chapter's content.
 
 You can find my implmementation at: [sco1/cs-from-scratch](https://github.com/sco1/cs-from-scratch)
+
+## Reading Queue
+* [*Writing a C Compiler*](https://nostarch.com/writing-c-compiler), Nora Sandler
+* [*500 Lines or Less*](https://aosabook.org/), Michael DiBernardo
+* [*Classic Computer Science Problems in Python*](https://www.manning.com/books/classic-computer-science-problems-in-python), David Kopec
+* [*The Elements of Computing Systems*](https://www.nand2tetris.org/) (aka 'nand2tetris'), Noam Nisan & Shimon Schocken
