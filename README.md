@@ -37,9 +37,9 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
+* 2025-11-10: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2025.11.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2025.11.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2025.11.0))  
 * 2025-10-28: [`bumper`](https://github.com/sco1/bumper) `v2.0.2` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.0.2), [Tree](https://github.com/sco1/bumper/tree/v2.0.2))  
 * 2025-10-28: [`flake8-define-class-attributes`](https://github.com/sco1/flake8-define-class-attributes) `v0.2.2` ([Changelog](https://github.com/sco1/flake8-define-class-attributes/releases/tag/v0.2.2), [Tree](https://github.com/sco1/flake8-define-class-attributes/tree/v0.2.2))  
 * 2025-10-22: [`pylox`](https://github.com/sco1/pylox) `v0.5.2` ([Changelog](https://github.com/sco1/pylox/releases/tag/v0.5.2), [Tree](https://github.com/sco1/pylox/tree/v0.5.2))  
 * 2025-10-09: [`flake8-annotations`](https://github.com/sco1/flake8-annotations) `v3.2.0` ([Changelog](https://github.com/sco1/flake8-annotations/releases/tag/v3.2.0), [Tree](https://github.com/sco1/flake8-annotations/tree/v3.2.0))  
-* 2025-10-09: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2025.10.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2025.10.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2025.10.0))  
 <!-- [[[end]]] -->
