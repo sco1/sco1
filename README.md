@@ -37,9 +37,9 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
+* 2026-02-20: [`wheely-bucket`](https://github.com/sco1/wheely-bucket) `v1.0.0` ([Changelog](https://github.com/sco1/wheely-bucket/releases/tag/v1.0.0), [Tree](https://github.com/sco1/wheely-bucket/tree/v1.0.0))  
 * 2026-02-18: [`check-workflow`](https://github.com/sco1/check-workflow) `v1.2.0` ([Changelog](https://github.com/sco1/check-workflow/releases/tag/v1.2.0), [Tree](https://github.com/sco1/check-workflow/tree/v1.2.0))  
 * 2026-02-05: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.9.3` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.9.3), [Tree](https://github.com/sco1/pyflysight/tree/v0.9.3))  
 * 2026-01-12: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2026.1.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2026.1.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2026.1.0))  
 * 2025-10-28: [`bumper`](https://github.com/sco1/bumper) `v2.0.2` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.0.2), [Tree](https://github.com/sco1/bumper/tree/v2.0.2))  
-* 2025-10-28: [`flake8-define-class-attributes`](https://github.com/sco1/flake8-define-class-attributes) `v0.2.2` ([Changelog](https://github.com/sco1/flake8-define-class-attributes/releases/tag/v0.2.2), [Tree](https://github.com/sco1/flake8-define-class-attributes/tree/v0.2.2))  
 <!-- [[[end]]] -->
