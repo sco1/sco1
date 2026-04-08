@@ -37,9 +37,9 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
+* 2026-04-07: [`dl-vsix`](https://github.com/sco1/dl-vsix) `v0.2.1` ([Changelog](https://github.com/sco1/dl-vsix/releases/tag/v0.2.1), [Tree](https://github.com/sco1/dl-vsix/tree/v0.2.1))  
 * 2026-04-02: [`check-workflow`](https://github.com/sco1/check-workflow) `v1.2.1` ([Changelog](https://github.com/sco1/check-workflow/releases/tag/v1.2.1), [Tree](https://github.com/sco1/check-workflow/tree/v1.2.1))  
 * 2026-04-01: [`wheely-bucket`](https://github.com/sco1/wheely-bucket) `v1.0.1` ([Changelog](https://github.com/sco1/wheely-bucket/releases/tag/v1.0.1), [Tree](https://github.com/sco1/wheely-bucket/tree/v1.0.1))  
 * 2026-04-01: [`bumper`](https://github.com/sco1/bumper) `v2.0.3` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.0.3), [Tree](https://github.com/sco1/bumper/tree/v2.0.3))  
 * 2026-02-05: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.9.3` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.9.3), [Tree](https://github.com/sco1/pyflysight/tree/v0.9.3))  
-* 2026-01-12: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2026.1.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2026.1.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2026.1.0))  
 <!-- [[[end]]] -->
