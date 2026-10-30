@@ -37,9 +37,9 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
+* 2026-10-29: [`flake8-annotations`](https://github.com/sco1/flake8-annotations) `v3.3.1` ([Changelog](https://github.com/sco1/flake8-annotations/releases/tag/v3.3.1), [Tree](https://github.com/sco1/flake8-annotations/tree/v3.3.1))  
+* 2026-10-29: [`vid2pdf`](https://github.com/sco1/vid2pdf) `v1.3.0` ([Changelog](https://github.com/sco1/vid2pdf/releases/tag/v1.3.0), [Tree](https://github.com/sco1/vid2pdf/tree/v1.3.0))  
 * 2026-10-15: [`bumper`](https://github.com/sco1/bumper) `v2.1.0` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.1.0), [Tree](https://github.com/sco1/bumper/tree/v2.1.0))  
 * 2026-10-15: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.10.0` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.10.0), [Tree](https://github.com/sco1/pyflysight/tree/v0.10.0))  
 * 2026-10-15: [`pre-commit-python-eol`](https://github.com/sco1/pre-commit-python-eol) `v2026.10.0` ([Changelog](https://github.com/sco1/pre-commit-python-eol/releases/tag/v2026.10.0), [Tree](https://github.com/sco1/pre-commit-python-eol/tree/v2026.10.0))  
-* 2026-10-06: [`wheely-bucket`](https://github.com/sco1/wheely-bucket) `v1.1.0` ([Changelog](https://github.com/sco1/wheely-bucket/releases/tag/v1.1.0), [Tree](https://github.com/sco1/wheely-bucket/tree/v1.1.0))  
-* 2026-10-06: [`flake8-annotations`](https://github.com/sco1/flake8-annotations) `v3.3.0` ([Changelog](https://github.com/sco1/flake8-annotations/releases/tag/v3.3.0), [Tree](https://github.com/sco1/flake8-annotations/tree/v3.3.0))  
 <!-- [[[end]]] -->
