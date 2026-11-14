@@ -37,9 +37,9 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
+* 2026-11-13: [`bumper`](https://github.com/sco1/bumper) `v2.1.1` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.1.1), [Tree](https://github.com/sco1/bumper/tree/v2.1.1))  
+* 2026-11-13: [`matplotlib-window`](https://github.com/sco1/matplotlib-window) `v1.2.0` ([Changelog](https://github.com/sco1/matplotlib-window/releases/tag/v1.2.0), [Tree](https://github.com/sco1/matplotlib-window/tree/v1.2.0))  
 * 2026-10-31: [`vid2pdf-flutter`](https://github.com/sco1/vid2pdf-flutter) `v1.0.0` ([Changelog](https://github.com/sco1/vid2pdf-flutter/releases/tag/v1.0.0), [Tree](https://github.com/sco1/vid2pdf-flutter/tree/v1.0.0))  
 * 2026-10-29: [`flake8-annotations`](https://github.com/sco1/flake8-annotations) `v3.3.1` ([Changelog](https://github.com/sco1/flake8-annotations/releases/tag/v3.3.1), [Tree](https://github.com/sco1/flake8-annotations/tree/v3.3.1))  
 * 2026-10-29: [`vid2pdf`](https://github.com/sco1/vid2pdf) `v1.3.0` ([Changelog](https://github.com/sco1/vid2pdf/releases/tag/v1.3.0), [Tree](https://github.com/sco1/vid2pdf/tree/v1.3.0))  
-* 2026-10-15: [`bumper`](https://github.com/sco1/bumper) `v2.1.0` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.1.0), [Tree](https://github.com/sco1/bumper/tree/v2.1.0))  
-* 2026-10-15: [`pyflysight`](https://github.com/sco1/pyflysight) `v0.10.0` ([Changelog](https://github.com/sco1/pyflysight/releases/tag/v0.10.0), [Tree](https://github.com/sco1/pyflysight/tree/v0.10.0))  
 <!-- [[[end]]] -->
