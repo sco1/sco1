@@ -37,7 +37,7 @@ from readme_rel.main import n_recent_releases, render_repos
 rendered = render_repos(n_recent_releases())
 cog.out(f"{rendered}")
 ]]] -->
-* 2026-11-24: [`bumper-rs`](https://github.com/sco1/bumper-rs) `v1.0.0` ([Changelog](https://github.com/sco1/bumper-rs/releases/tag/v1.0.0), [Tree](https://github.com/sco1/bumper-rs/tree/v1.0.0))  
+* 2026-11-25: [`bumper-rs`](https://github.com/sco1/bumper-rs) `v1.1.0` ([Changelog](https://github.com/sco1/bumper-rs/releases/tag/v1.1.0), [Tree](https://github.com/sco1/bumper-rs/tree/v1.1.0))  
 * 2026-11-23: [`bop-merge`](https://github.com/sco1/bop-merge) `v1.0.0` ([Changelog](https://github.com/sco1/bop-merge/releases/tag/v1.0.0), [Tree](https://github.com/sco1/bop-merge/tree/v1.0.0))  
 * 2026-11-13: [`bumper`](https://github.com/sco1/bumper) `v2.1.1` ([Changelog](https://github.com/sco1/bumper/releases/tag/v2.1.1), [Tree](https://github.com/sco1/bumper/tree/v2.1.1))  
 * 2026-11-13: [`matplotlib-window`](https://github.com/sco1/matplotlib-window) `v1.2.0` ([Changelog](https://github.com/sco1/matplotlib-window/releases/tag/v1.2.0), [Tree](https://github.com/sco1/matplotlib-window/tree/v1.2.0))  
